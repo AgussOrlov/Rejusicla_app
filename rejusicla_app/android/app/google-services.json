@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938695572544",
+    "project_id": "rejusiclaapp1",
+    "storage_bucket": "rejusiclaapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938695572544:android:1e3827f95635ac7e93f3a5",
+        "android_client_info": {
+          "package_name": "com.example.rejusicla_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938695572544-9av8gf0lt65vcccuiqrdtprsu1u5r00a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rejusicla_app",
+            "certificate_hash": "3ebba76fb3c2164784a60d8146e7ad6081293c87"
+          }
+        },
+        {
+          "client_id": "938695572544-1unhiql022t44ftfogsg86oaol54h2qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwuFmMn_1bUupDuUbad0lCcdiU1utQ6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938695572544-1unhiql022t44ftfogsg86oaol54h2qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
